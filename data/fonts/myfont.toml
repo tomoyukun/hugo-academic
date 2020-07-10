@@ -7,5 +7,5 @@ google_fonts = "Oxygen:300,400,700|Montserrat:400,700|Roboto:400,400italic,700|R
 # Font families
 heading_font = "Montserrat"
 body_font = "Oxygen"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+nav_font = "Oxygen"
+mono_font = "Oxygen"
